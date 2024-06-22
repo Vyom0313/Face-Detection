@@ -1,0 +1,8 @@
+So, you need another folder named Dataset which needs to have the following contents
+/Dataset/all
+/Dataset/DataCollect
+/Dataset/Fake
+/Dataset/Real
+/Dataset/SplitData
+
+I am unable to upload all of that as it has too many images
